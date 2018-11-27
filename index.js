@@ -1,4 +1,4 @@
-var myImages =["https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjp2M24ifHeAhXcHzQIHUIMCh0QjRx6BAgBEAU&url=https%3A%2F%2Fthehappypuppysite.com%2Fshar-pei%2F&psig=AOvVaw11coACicb41XBqCFf7FM_F&ust=1543287789444636","https://cdn.akc.org/Marketplace/Breeds/Pembroke_Welsh_Corgi_SERP.jpg","https://www.card.com/sites/default/files/styles/card_gallery_image_medium/public/Card-DisseroBrands-14.jpg?itok=ammQy10m","https://global-free-classified-ads-s02.r.worldssl.net/user_images/1102139.jpg","https://st2.depositphotos.com/2892507/7444/i/950/depositphotos_74448903-stock-photo-husky-puppy.jpg"];
+var myImages =[ "http://smartfamilypets.com/wp-content/uploads/2015/12/Chow-chow-puppies-513x330.jpg","http://adogbreeds.com/wp-content/uploads/2012/12/Pembroke-Welsh-Corgi-Puppies-Play-at-Black-Gravel.jpg","https://i.pinimg.com/originals/60/52/e4/6052e467f4d6755cc58321273cbfa5c8.jpg","https://global-free-classified-ads-s02.r.worldssl.net/user_images/1102139.jpg","https://puppyspot-photos-prod.s3.us-west-2.amazonaws.com/breeds/245/card/500000291_medium.jpg"];
 
 
 var captionImages =["ChowChow","Corgi","BullDog","Yorki","Husky"];
